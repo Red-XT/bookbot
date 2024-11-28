@@ -1,2 +1,3 @@
 # bookbot
-first project boot.dev
+# first project boot.dev
+# BookBot is my first project!
